@@ -1,0 +1,7 @@
+../My_Task/Src/lcd.c:13:6:LCD_Writ_Bus	16	static
+../My_Task/Src/lcd.c:26:6:LCD_WR_DATA8	16	static
+../My_Task/Src/lcd.c:37:6:LCD_WR_DATA	16	static
+../My_Task/Src/lcd.c:49:6:LCD_WR_REG	16	static
+../My_Task/Src/lcd.c:61:6:LCD_Address_Set	24	static
+../My_Task/Src/lcd.c:105:6:LCD_Init	8	static
+../My_Task/Src/lcd.c:209:6:LCD_Driver_Init	8	static

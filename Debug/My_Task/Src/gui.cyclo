@@ -1,0 +1,4 @@
+../My_Task/Src/gui.c:8:6:GUI_Point	3
+../My_Task/Src/gui.c:17:6:GUI_sprintf_char	9
+../My_Task/Src/gui.c:54:6:GUI_sprintf_string	5
+../My_Task/Src/gui.c:74:6:LCD_Clear	2

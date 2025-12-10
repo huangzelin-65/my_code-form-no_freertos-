@@ -1,0 +1,4 @@
+../My_Task/Src/gui.c:8:6:GUI_Point	16	static
+../My_Task/Src/gui.c:17:6:GUI_sprintf_char	40	static
+../My_Task/Src/gui.c:54:6:GUI_sprintf_string	56	static
+../My_Task/Src/gui.c:74:6:LCD_Clear	24	static
